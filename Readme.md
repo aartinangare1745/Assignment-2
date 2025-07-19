@@ -1,12 +1,13 @@
-#Task 1
-#taking two intergers as user input using input function 
-#performing arithmetics operations
-#adding the given input number with addiion operator
-#similarly for division,miltiplication and substraction
-#using pring function to give output of each operation
+task 1
+taking user input as integer
+using if else statement. 
+if the input value when divided by 2 gives 0 as reminder the number is even 
+else odd
+so printing the output if any condition is met.
 
 
-#Task 2
-#taking two strings as user, input first and last name
-#adding this stings together to create a full name added some space in between for readability.
-#Printing the output as greeting with full name included.
+task 2
+addition of all numbers upto given number i.e 50
+using for loop to iterate from 1 to 50
+adding all numbers and storing the result in new integer
+printing the new variable as output
